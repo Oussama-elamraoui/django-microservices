@@ -1,13 +1,9 @@
 
 ---
-###### switch to master
-##### git checkout master
-
-
-#### 📄 `README.md` for `list-api` branch:
 
 ```markdown
-# User Listing API
+###### switch to master
+##### git checkout master
 
 This Django project provides a RESTful API to fetch all users stored in a shared MySQL database (containerized using Docker).
 
