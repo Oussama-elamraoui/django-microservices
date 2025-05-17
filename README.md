@@ -1,5 +1,8 @@
 
 ---
+###### switch to master
+##### git checkout master
+
 
 #### 📄 `README.md` for `list-api` branch:
 
